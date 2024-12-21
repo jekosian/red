@@ -1,1 +1,5 @@
-# red
+<p align="center"><img src="https://64.media.tumblr.com/e8ae7c9d327434214005f2759e10d8c5/08b6024acb610772-57/s400x600/ea288684465fe91c5727dc6d22d5b6168070951d.gifv" width="500">
+<p align="center"><img src="https://64.media.tumblr.com/9e133f4611beb81a89839e08f763ebd8/08b6024acb610772-5e/s400x600/a6c063f358b0a4daf6844128c372e2b0d5a4ae7b.gifv" width="700">
+<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nthrfejdrl5ztsoldu5q2cncju&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=cb0303&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" width="300">
+<img src="https://64.media.tumblr.com/bbe3f2819a94bfb8cfe4228ba19358bb/48dc0044139117f3-63/s540x810/73afc1933235a0393752a0a20fd0eabfcd25e8a8.pnj" width="300">
+<p align="center"><img src="https://64.media.tumblr.com/772601a28648c04cf1c9690687bb8265/232d390e5f4723e7-b0/s2048x3072/7c62ffcb96c8b0c4ea25645203fa62cc5fe2c659.pnj" width="700">
